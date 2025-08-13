@@ -35,5 +35,3 @@ and produces an intermediate representation or error messages for incorrect synt
   Grammar definitions and parser logic are organized for easy modification.
 
 ---
-
-## 📂 Project Structure
